@@ -1,7 +1,6 @@
 # widgets_app
 
-A new Flutter project.
-
+Flutter app example written while doing a flutter course on Udemy
 
 add a new dependency
 `flutter pub add animate_do`
